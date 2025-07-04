@@ -54,7 +54,7 @@ const Index = () => {
                 </a>
               ))}
               <div className="flex items-center space-x-4 ml-8">
-                <Button variant="outline" className="border-gray-600 text-black-300 hover:bg-gray-700">
+                <Button variant="outline" className="border-gray-600 text-black hover:bg-gray-700">
                   Login
                 </Button>
                 <Button className="bg-blue-600 hover:bg-blue-700 text-white">
