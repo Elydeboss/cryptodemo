@@ -246,7 +246,7 @@ const Index = () => {
               <Button
                 variant="outline"
                 size="sm"
-                className="border-gray-600 text-black hover:bg-gray-700"
+                className="border-gray-600 text-black-500 hover:bg-gray-700"
               >
                 <MessageCircle className="h-4 w-4 mr-2" />
                 Live support
